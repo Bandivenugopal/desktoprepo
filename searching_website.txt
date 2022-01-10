@@ -1,0 +1,1 @@
+website:https://aku.dev/create_aws_ec2_instance_with_terraform/

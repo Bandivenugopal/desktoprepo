@@ -1,0 +1,8 @@
+public-subnet1a= 10.0.0.0/24
+private-subnet1a=10.0.1.0/24
+
+public-subnet-1b=10.0.2.0/24
+private-subnet-1b=10.0.3.0/24
+
+public-subnet-1c=10.0.4.0/24
+private-subnet1c=10.0.5.0/24

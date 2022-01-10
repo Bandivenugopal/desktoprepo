@@ -1,0 +1,27 @@
+09/01/2022:
+tasks:
+1.create ec2
+  apache with userdata
+ os-Amazon
+ own vpc
+ m4.xlarge
+my task:create shell script
+url_check.sh
+ execut curl -i one by one
+task:describe the ec2 from cli from your laptop
+2.connect to ec2
+outside we access A.k/S.k
+inside aws we access A.k/S.k we are using iam role 
+3. print hello world in shell
+4.print hello 10 times
+5.print 1 to 10
+debugging line by line:
+command:sh -x
+set-e:stop of line
+seeing shell script basics
+if conition
+even numbers
+print 1 to 10
+print prime number
+print bigger number
+interview questions:
