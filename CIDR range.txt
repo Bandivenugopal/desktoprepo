@@ -1,0 +1,14 @@
+vpc:10.1.0.0/16
+subnets:
+public subnets
+pub-sunet-1-a:     10.1.0.0/24
+pub-subnet-1-b:    10.1.1.0/24
+pub-subnet-1-c:    10.1.2.0/24
+private subnets
+private-subnet-1-a:10.1.3.0/24
+pri-subnet-1-b:    10.1.4.0/24
+pri-subent-1-c:    10.1.5.0/24
+data subnets
+data-sunet-1-a:    10.1.6.0/24
+data-subnet-1-b:   10.1.7.0/24
+data-subnet-1-c:   10.1.8.0/24
